@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: FootStapp
+        psr4_prefix: FootStapp
+        src_path: app

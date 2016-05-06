@@ -1,0 +1,3 @@
+* Use rate limit middleware
+* Use Basic Authentication as well https://github.com/dingo/api/wiki/Authentication#allow-only-specific-authentication-providers
+* Write code to support multiple error like http://jsonapi.org/examples/#error-objects-multiple-errors
